@@ -5,11 +5,19 @@ title: Ubikitina's Data Space 💫✨
 
 ## Hi, I'm Ubikitina
 
-I'm Maialen (Ubikitina) a computer engineer and biochemist, currently working as a Data Engineer. I love exploring the endless possibilities of data and sharing my learnings through GitHub. 
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div style="flex: 1;">
+    <img src="https://avatars.githubusercontent.com/u/34455658?v=4" alt="Maialen's Picture" style="border-radius: 50%; width: 100%; max-width: 200px;">
+  </div>
+  <div style="flex: 4;">
+    <p>I'm Maialen (Ubikitina) a computer engineer and biochemist, currently working as a Data Engineer. I love exploring the endless possibilities of data and sharing my learnings through GitHub.</p>
+  </div>
+</div>
+
 
 ## My Github
 
-These are some of my most interesting projects:
+You can find my profile [here](https://github.com/Ubikitina/). Below are some of my most interesting projects:
 
 ### 📊 Data Engineering Projects
 - **[Twitter Sentiment Analyzer](https://github.com/Ubikitina/datahack-kafka)** using Kafka, MongoDB, Python (Hugging Face), and Docker.
