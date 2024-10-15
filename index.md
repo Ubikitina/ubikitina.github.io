@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Hi, I'm Maialen (Ubikitina)
+# Hi, I'm Ubikitina
 
-I'm a computer engineer and biochemist, currently working as a Data Engineer. I love exploring the endless possibilities of data and sharing my learnings through GitHub. 
+I'm Maialen (Ubikitina), a computer engineer and biochemist, currently working as a Data Engineer. I love exploring the endless possibilities of data and sharing my learnings through GitHub. 
 
 Here, you’ll find some of my most interesting projects:
 
