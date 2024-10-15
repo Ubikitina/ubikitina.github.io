@@ -3,14 +3,14 @@ layout: default
 title: Ubikitina's Data Space 💫✨
 ---
 
-## Hi, I'm Ubikitina
+## About Me
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <div style="flex: 1;">
     <img src="https://avatars.githubusercontent.com/u/34455658?v=4" alt="Maialen's Picture" style="border-radius: 50%; width: 100%; max-width: 200px;">
   </div>
   <div style="flex: 4;">
-    <p>I'm Maialen (Ubikitina) a computer engineer and biochemist, currently working as a Data Engineer. I love exploring the endless possibilities of data and sharing my learnings through GitHub.</p>
+    <p>Hi, I'm Maialen (Ubikitina) a computer engineer and biochemist, currently working as a Data Engineer. I love exploring the endless possibilities of data and sharing my learnings through GitHub.</p>
   </div>
 </div>
 
