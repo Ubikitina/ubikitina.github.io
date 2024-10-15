@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Ubikitina's Data Space 💫✨
+title: Ubikitina's Data Space 💫✨
 ---
 
 ## Hi, I'm Ubikitina
