@@ -2,6 +2,7 @@
 layout: post  
 title: Building a Successful Data Engineering Career  
 permalink: /2024-03-24-data-engineering-career.html  
+date: 2024-03-24
 ---
 
 * Data Engineering is at the core of data-driven organizations. Here’s how to build a solid career in the field.
