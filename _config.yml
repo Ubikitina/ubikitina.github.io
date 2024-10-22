@@ -6,3 +6,6 @@ theme: jekyll-theme-cayman
 
 paginate_path: "/blog/page:num/"  # Pagination page path
 paginate: 20
+
+plugins:
+  - jekyll-paginate
