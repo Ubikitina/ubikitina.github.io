@@ -4,7 +4,5 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 
-pagination:
-  enabled: true
-  per_page: 5  # Number of posts per page
-  path: "/blog/page:num/"  # Pagination page path
+paginate_path: "/blog/page:num/"  # Pagination page path
+paginate: 20
