@@ -5,8 +5,6 @@ permalink: /2025-01-26-real-time-data-challenges.html
 date: 2025-01-26
 ---
 
-# The Challenges of Real-Time Data: Why 100% Real-Time is Almost Impossible
-
 This weekend, I had the opportunity to attend **Bilbostack 2025**, a conference packed with exciting IT topics and super close to home! It felt amazing to have such incredible opportunities right here and meeting some really interesting people. 😊
 
 One of the talks particularly stood out, and it focused on the challenges of dealing with **real-time data**. So this is what I want to talk about today. What struck me was a conversation I had with someone who wasn’t specialized in the data world. As we sat through the talk, she asked with genuine curiosity:  
