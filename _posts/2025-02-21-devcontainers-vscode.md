@@ -2,7 +2,7 @@
 layout: post
 title: "Boosting Data Engineering Workflows with Dev Containers in Visual Studio Code"
 permalink: /2025-02-21-devcontainers-vscode.html 
-date: 2025-04-11
+date: 2025-02-21
 ---
 
 As a data engineer, maintaining a consistent development environment across machines and projects can be challenging. That's where **dev containers** come in. By using [Visual Studio Code Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers), I’ve managed to create a reproducible, portable, and fully configured environment tailored specifically for my data projects.

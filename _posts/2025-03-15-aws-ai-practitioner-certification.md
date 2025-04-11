@@ -2,7 +2,7 @@
 layout: post
 title: "My Experience Getting AWS Certified as an AI Practitioner"
 permalink: /2025-03-15-aws-ai-practitioner-certification.html 
-date: 2025-04-11
+date: 2025-03-15
 ---
 
 
