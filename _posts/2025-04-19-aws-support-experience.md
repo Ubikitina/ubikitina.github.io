@@ -5,7 +5,7 @@ permalink: /2025-04-19-aws-support-experience.html
 date: 2025-04-19
 ---
 
-This week, I was working on a pretty intense project that relies heavily on **AWS Glue** as part of our data pipeline. I work at a company where we use **AWS for both development and production**, and luckily, we have an active **AWS Support plan**. Although it’s been available to us all this time, I had never used it... until now. And I have to say — it was a really positive surprise. 😌
+A few weeks ago, I was working on a pretty intense project that relies heavily on **AWS Glue** as part of our data pipeline. I work at a company where we use **AWS for both development and production**, and luckily, we have an active **AWS Support plan**. Although it’s been available to us all this time, I had never used it... until now. And I have to say — it was a really positive surprise. 😌
 
 
 ## AWS Support Plans – A Quick Overview
