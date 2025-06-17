@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: AWS Summit Madrid 2025: A Day Full of Data, AI & Real Tech Vibes  
+title: AWS Summit Madrid 2025 - A Day Full of Data, AI & Real Tech Vibes  
 permalink: /2025-06-17-aws-summit-madrid-2025.html  
 date: 2025-06-17
 ---
