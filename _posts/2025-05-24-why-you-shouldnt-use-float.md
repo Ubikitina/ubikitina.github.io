@@ -81,4 +81,4 @@ If you're working with data that will impact decisions, reports, or important ca
 
 ---
 
-Have you faced `FLOAT`-related issues in your projects? I’d love to hear about it. Feel free to reach out via DM on my [GitHub profile](https://github.com/Ubikitina). 😊💬
+*Have you faced `FLOAT`-related issues in your projects? I’d love to hear about it. Feel free to reach out via DM on my [GitHub profile](https://github.com/Ubikitina).* 😊💬
