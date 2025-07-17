@@ -5,9 +5,13 @@ permalink: /2025-07-10-aws-solutions-architect-associate-journey.html
 date: 2025-07-10
 ---
 
-I recently reached a new milestone in my professional journey: earning the **AWS Certified Solutions Architect – Associate** certification. Beyond the personal achievement, this process was an exercise in technical consolidation and a catalyst for re-evaluating my expertise within the AWS ecosystem.
+I recently reached a new milestone in my professional journey: earning the [**AWS Certified Solutions Architect – Associate** certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/acb5b3e5c9124a7389ae6f25e4db9809). Beyond the personal achievement, this process was an exercise in technical consolidation and a catalyst for re-evaluating my expertise within the AWS ecosystem.
 
-<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/acb5b3e5c9124a7389ae6f25e4db9809" target="_blank" rel="noopener noreferrer"><img src="/assets/images/aws-solutions-architect-associate-badge.png" alt="AWS Certified Solutions Architect – Associate Badge" style="max-width: 150px; margin-top: 1rem; margin-bottom: 1rem;"></a>
+<div style="text-align: center;">
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/acb5b3e5c9124a7389ae6f25e4db9809" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/aws-solutions-architect-associate-badge.png" alt="AWS Certified Solutions Architect – Associate Badge" style="max-width: 150px; margin-top: 1rem; margin-bottom: 1rem;">
+  </a>
+</div>
 
 It all started at the **AWS Summit in Madrid, 2025**. After attending several advanced technical sessions (Level 300-400), I had a pleasant surprise: I could follow the complex architectural discussions and connect the dots between services and real-world use cases. This sparked a key question: **What if my current certifications no longer reflect my actual knowledge?**
 
