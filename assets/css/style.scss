@@ -2,3 +2,38 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+/* Custom styles for book entries */
+.book-entry {
+    display: flex; /* Use flexbox for side-by-side layout */
+    align-items: flex-start; /* Align items to the top */
+    margin-bottom: 30px; /* Add some space between book entries */
+    gap: 20px; /* Space between image and text content */
+}
+
+.book-entry img {
+    flex-shrink: 0; /* Prevent image from shrinking */
+    width: 150px;
+    height: auto; /* Maintain aspect ratio */
+    /* margin-right: 20px; - Replaced by gap in flexbox */
+    border: 1px solid #eee; /* Optional: subtle border around images */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1); /* Optional: subtle shadow */
+}
+
+.book-entry .content {
+    flex-grow: 1; /* Allow the content to take up remaining space */
+    /* Remove any float here, flexbox handles the layout */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .book-entry {
+        flex-direction: column; /* Stack image and text vertically */
+        align-items: center; /* Center items when stacked */
+        text-align: center; /* Center text too */
+    }
+
+    .book-entry img {
+        margin-bottom: 20px; /* Add space below image when stacked */
+    }
+}
