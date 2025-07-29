@@ -17,7 +17,7 @@ title: Maialen - Data Engineering & Architecture
 ---
 
 
-## 🌟 Key Accomplishments
+## Key Accomplishments
 
 - Led the development of scalable ingestion pipelines that reduced manual data wrangling.
 - Designed and delivered internal training programs to upskill junior engineers on cloud and big data tools.
@@ -27,13 +27,13 @@ title: Maialen - Data Engineering & Architecture
 
 ---
 
-## ✍️ Blog Highlights
+## Blog Highlights
 
 > Check out my [blog](https://ubikitina.github.io/blog/) for deeper reflections on data, leadership, and learning.
 
 Some recent posts:
-- 🧠 [Books That Shifted My Mindset (and might shift yours too!)](https://ubikitina.github.io/2025-07-17-books-that-shifted-my-mindset.html)
-- 📚 [My Strategy for Conquering the AWS SAA-C03 Exam](https://ubikitina.github.io/2025-07-10-aws-solutions-architect-associate-journey.html)
-- 🧪 [Why FLOAT in PostgreSQL is Dangerous (and Other Decimal Gotchas)](https://ubikitina.github.io/2025-05-24-why-you-shouldnt-use-float.html)
+- [Books That Shifted My Mindset (and might shift yours too!)](https://ubikitina.github.io/2025-07-17-books-that-shifted-my-mindset.html)
+- [My Strategy for Conquering the AWS SAA-C03 Exam](https://ubikitina.github.io/2025-07-10-aws-solutions-architect-associate-journey.html)
+- [Why FLOAT in PostgreSQL is Dangerous (and Other Decimal Gotchas)](https://ubikitina.github.io/2025-05-24-why-you-shouldnt-use-float.html)
 
 
