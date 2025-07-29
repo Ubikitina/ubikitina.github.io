@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ubikitina's Data Space 💫✨
+title: Maialen - Data Engineering & Architecture
 ---
 
 ## About Me
@@ -10,30 +10,30 @@ title: Ubikitina's Data Space 💫✨
     <img src="https://avatars.githubusercontent.com/u/34455658?v=4" alt="Maialen's Picture" style="border-radius: 50%; width: 100%; max-width: 200px;">
   </div>
   <div style="flex: 4;">
-    <p>Hi, I'm Maialen (Ubikitina) a computer engineer and biochemist, currently working as a Data Engineer. I love exploring the endless possibilities of data and sharing my learnings through GitHub.</p>
+    <p>Hello! I'm <strong>Maialen</strong>, a Computer Engineer and Biochemist currently working as a <strong>Data Engineer and Architect</strong>. I specialize in architecting and building scalable data platforms, and I'm passionate about driving data initiatives that deliver business value.</p>
   </div>
 </div>
 
+---
 
-## My Github
 
-You can find my profile [here](https://github.com/Ubikitina/). Below are some of my most interesting projects:
+## 🌟 Key Accomplishments
 
-### 📊 Data Engineering Projects
-- **[Twitter Sentiment Analyzer](https://github.com/Ubikitina/datahack-kafka)** using Kafka, MongoDB, Python (Hugging Face), and Docker.
-- **[Advertisement Website Backend](https://github.com/Ubikitina/datahack-cloud)** hosted in AWS.
-- **[Madrid Air Quality Analysis](https://github.com/Ubikitina/datahack-mongodb)** using Time Series and MongoDB.
-- **[Movie Market Analysis](https://github.com/Ubikitina/datahack-hadoop)** utilizing Hadoop for big data processing.
-- **[Car Listings API](https://github.com/Ubikitina/datahack-kubernetes-dotnet-api-mongodb)** in .NET with deployment using Docker and Kubernetes.
+- Led the development of scalable ingestion pipelines that reduced manual data wrangling.
+- Designed and delivered internal training programs to upskill junior engineers on cloud and big data tools.
+- Contributed to data architecture decisions for regulated systems with business-critical impact.
+- Actively mentor peers and promote a culture of continuous learning and technical ownership.
 
-### 📚 Learning Paths for Technologies
-- **[Spark Essentials](https://github.com/Ubikitina/Spark-Essentials)**
-- **[Kafka Essentials](https://github.com/Ubikitina/Kafka-Essentials)**
-- **[Docker Essentials](https://github.com/Ubikitina/Docker-Essentials)**
-- **[Hadoop Essentials](https://github.com/Ubikitina/Hadoop-Essentials)**
 
-### 🚀 Additional Trainings
-- **[Python: 100 Days of Code](https://github.com/Ubikitina/100-Days-of-Code-Python)**
-- **[Machine Learning A-Z](https://github.com/Ubikitina/Machine-Learning-A-Z)**
+---
 
-I'm thrilled to connect with fellow enthusiasts and professionals. If you have any life-sciences projects where data engineering and data science play a role, I'd love to collaborate!
+## ✍️ Blog Highlights
+
+> Check out my [blog](https://ubikitina.github.io/blog/) for deeper reflections on data, leadership, and learning.
+
+Some recent posts:
+- 🧠 [Books That Shifted My Mindset (and might shift yours too!)](https://ubikitina.github.io/2025-07-17-books-that-shifted-my-mindset.html)
+- 📚 [My Strategy for Conquering the AWS SAA-C03 Exam](https://ubikitina.github.io/2025-07-10-aws-solutions-architect-associate-journey.html)
+- 🧪 [Why FLOAT in PostgreSQL is Dangerous (and Other Decimal Gotchas)](https://ubikitina.github.io/2025-05-24-why-you-shouldnt-use-float.html)
+
+
