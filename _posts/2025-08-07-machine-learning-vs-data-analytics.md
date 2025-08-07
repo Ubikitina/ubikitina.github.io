@@ -1,8 +1,8 @@
 ---
 layout: post  
 title: Machine Learning or Data Analytics? The Golden Hammer Dilemma  
-permalink: /2025-08-08-machine-learning-vs-data-analytics.html  
-date: 2025-08-08  
+permalink: /2025-08-07-machine-learning-vs-data-analytics.html  
+date: 2025-08-07 
 ---
 
 We’re living in a fascinating time in the world of data. Terms like *Machine Learning* (ML) and *Artificial Intelligence* dominate strategic conversations, spark excitement, and promise to transform industries. And while they absolutely can — and do — it's also worth pausing for a moment.
