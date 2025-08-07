@@ -11,7 +11,7 @@ Because with every new, shiny tool, comes a familiar pattern: the temptation to 
 
 This is often called the **Golden Hammer problem**: if the tool you're most excited to use is a hammer (in this case, Machine Learning), it's easy to start seeing every problem as a nail.
 
----
+
 
 ## When the Tool Becomes the Focus — Not the Problem
 
@@ -19,21 +19,7 @@ In recent years, I've seen this play out in large organizations. Teams investing
 
 None of this means Machine Learning was a bad choice — just that **it may not have been the best fit for the problem at hand**.
 
----
-
-## Why Does This Happen?
-
-There are a few understandable reasons:
-
-- **ML feels innovative.** It’s exciting and cutting-edge — and can spark stakeholder enthusiasm.
-- **The market pushes it.** Vendors and platforms promote ML as the solution to everything.
-- **It signals “maturity.”** Especially in data-driven organizations eager to evolve.
-
-All of these are valid motivations — but when they override the actual problem we’re trying to solve, we risk misalignment. Instead of choosing the best tool, we end up choosing the most impressive one.
-
----
-
-## A Story That Stuck With Me
+### A Story That Stuck With Me
 
 You might’ve heard of the **Netflix Prize**: in 2009, Netflix offered a $1M prize for anyone who could improve their movie recommendation engine by at least 10%. The winning solution used an ensemble of over 100 ML algorithms — incredibly impressive.
 
@@ -41,7 +27,7 @@ But here’s the twist: **Netflix never implemented the winning model**. The mar
 
 A good reminder that sometimes, value comes not from sophistication — but from clarity, speed, and alignment with business reality.
 
----
+
 
 ## So, what can we do instead? 5 Guiding Questions
 
