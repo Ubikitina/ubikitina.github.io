@@ -4,16 +4,16 @@ title: Projects
 ---
 
 
-## 💼 Selected Projects
+## Featured Projects
 
 <div class="card-grid">
 
 <div class="card">
   <h3><a href="https://github.com/Ubikitina/datahack-kafka">Twitter Sentiment Analyzer</a></h3>
-  <p>Real-time sentiment analysis using Kafka, MongoDB, Hugging Face and Docker to extract user sentiment from Twitter data streams.</p>
-  <span class="badge">Kafka</span>
-  <span class="badge">MongoDB</span>
+  <p>Applied real-time sentiment analysis using Hugging Face Transformers (NLP), Kafka, MongoDB and Docker.</p>
   <span class="badge">Hugging Face</span>
+  <span class="badge">NLP</span>
+  <span class="badge">Kafka</span>
   <span class="badge">Docker</span>
 </div>
 
@@ -26,7 +26,7 @@ title: Projects
 
 <div class="card">
   <h3><a href="https://github.com/Ubikitina/datahack-mongodb">Madrid Air Quality Analysis</a></h3>
-  <p>Time series analytics using MongoDB for urban air quality trends.</p>
+  <p>Implemented time series analytics using MongoDB for urban air quality trends.</p>
   <span class="badge">MongoDB</span>
   <span class="badge">Time Series</span>
 </div>
@@ -50,9 +50,17 @@ title: Projects
 
 
 
-## 📖 Continuous Learning & Tech Literacy
+## Learning Porfolio
+
+A collection of technical notes, study materials, and hands-on guides developed while mastering key data and cloud technologies.
 
 <div class="card-grid">
+
+<div class="card">
+  <h3><a href="https://github.com/Ubikitina/Machine-Learning-A-Z">Machine Learning A-Z</a></h3>
+  <p>Explains foundational ML algorithms with code examples, visualizations, and real-world use cases.</p>
+  <span class="badge">Machine Learning</span>
+</div>
 
 <div class="card">
   <h3><a href="https://github.com/Ubikitina/Spark-Essentials">Spark Essentials</a></h3>
@@ -82,12 +90,6 @@ title: Projects
   <h3><a href="https://github.com/Ubikitina/100-Days-of-Code-Python">100 Days of Python</a></h3>
   <p>Progressive Python challenges and projects from beginner to intermediate level.</p>
   <span class="badge">Python</span>
-</div>
-
-<div class="card">
-  <h3><a href="https://github.com/Ubikitina/Machine-Learning-A-Z">Machine Learning A-Z</a></h3>
-  <p>Explains foundational ML algorithms with code examples, visualizations, and real-world use cases.</p>
-  <span class="badge">Machine Learning</span>
 </div>
 
 </div>
