@@ -1,8 +1,8 @@
 ---
-layout: post  
-title: The hidden trap of IAM Role recreation in Terraform: Understanding the AWS Unique Principal ID
-permalink: /2025-10-19-the-hidden-trap-of-iam-role-recreation.html  
-date: 2025-10-19 
+layout: post
+title: "The hidden trap of IAM Role recreation in Terraform: Understanding the AWS Unique Principal ID"
+permalink: /2025-10-19-the-hidden-trap-of-iam-role-recreation.html
+date: 2025-10-19
 ---
 
 # The Hidden Trap of IAM Role Recreation in Terraform: Understanding the AWS Unique Principal ID
