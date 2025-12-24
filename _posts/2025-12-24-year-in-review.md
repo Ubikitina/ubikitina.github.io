@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2025: What a year, huh?"
-permalink: /2025/12/24/2025-what-a-year-huh.html
+permalink: /2025-12-24-what-a-year-huh.html
 date: 2025-12-24
 ---
 

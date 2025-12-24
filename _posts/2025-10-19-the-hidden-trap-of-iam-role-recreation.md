@@ -5,8 +5,6 @@ permalink: /2025-10-19-the-hidden-trap-of-iam-role-recreation.html
 date: 2025-10-19
 ---
 
-# The Hidden Trap of IAM Role Recreation in Terraform: Understanding the AWS Unique Principal ID
-
 As Cloud Engineers, we often manage our infrastructure with the confidence that comes from Infrastructure as Code (IaC). When we define an AWS IAM Role in Terraform, we rely on its name and ARN as a stable identifier.
 
 This leads to a common and dangerous assumption: If we delete a role and immediately recreate a new one with the exact same name, policies and ARN, everything should just pick up where it left off, right?
