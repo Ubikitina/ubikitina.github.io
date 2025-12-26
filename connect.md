@@ -1,3 +1,23 @@
-## Let’s Connect
+---
+layout: default
+title: Connect
+---
 
-I'm always open to meaningful collaboration, technical discussions, and mentoring. If you're building something exciting in the Data or Life Sciences space—or just want to connect—feel free to reach out via [GitHub](https://github.com/Ubikitina/) or [LinkedIn](https://www.linkedin.com/in/maialen-igartua-ayerbe).
+## Let's Connect
+
+<div class="card contact-card">
+  <p>
+    I am always open to <strong>collaboration</strong>, <strong>technical discussions</strong>, or <strong>mentoring</strong>. 
+    If you are working on innovative projects within the <strong>Data Engineering</strong> or <strong>Life Sciences</strong> domains, 
+    I'd love to hear from you.
+  </p>
+
+  <div class="contact-links">
+    <a href="https://www.linkedin.com/in/maialen-igartua-ayerbe" target="_blank" class="contact-badge linkedin">
+      LinkedIn
+    </a>
+    <a href="https://github.com/Ubikitina/" target="_blank" class="contact-badge github">
+      GitHub
+    </a>
+  </div>
+</div>
