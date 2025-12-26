@@ -11,7 +11,7 @@ title: Maialen - Data Engineering & Architecture
     <div style="flex: 3; min-width: 300px;">
       <h2 style="margin-top: 0; color: #0a2540; border-bottom: none;">About Me</h2>
       <p style="font-size: 1.1em; line-height: 1.6; color: #333;">
-        Hi, I'm <strong>Maialen</strong>. I am a <strong>Data Architect & Engineer</strong> with a dual background in Computer Engineering and Biochemistry. This combination allows me to approach data challenges with both technical precision and scientific rigor.
+        Hi, I'm <strong>Maialen</strong>. I am a <strong>Data Architect & Engineer</strong> with a dual background in Computer Engineering and Biochemistry.
       </p>
       <p style="font-size: 1.1em; line-height: 1.6; color: #333;">
         I specialize in building scalable data ecosystems, transforming complex datasets into actionable business value. I’m driven by a natural interest in how systems work, whether digital or biological, and how <strong>data can bridge the gap between them</strong>.
@@ -23,23 +23,23 @@ title: Maialen - Data Engineering & Architecture
 ---
 
 <h2 style="text-align: center; color: #0a2540; margin-bottom: 30px; border-bottom: none;">Key Accomplishments</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+  
   <div style="padding: 20px; border-top: 4px solid #0a2540; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px;">
     <span style="font-size: 2em; margin-bottom: 10px; display: block;">🚀</span>
     <p style="margin:0;">Led the development of scalable ingestion pipelines that reduced manual data wrangling.</p>
   </div>
-  <div style="padding: 20px; border-top: 4px solid #0a2540; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px;">
-    <span style="font-size: 2em; margin-bottom: 10px; display: block;">🎓</span>
-    <p style="margin:0;">Designed and delivered internal training programs to upskill junior engineers on cloud and big data tools.</p>
-  </div>
+
   <div style="padding: 20px; border-top: 4px solid #0a2540; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px;">
     <span style="font-size: 2em; margin-bottom: 10px; display: block;">🏗️</span>
     <p style="margin:0;">Contributed to data architecture decisions for regulated systems with business-critical impact.</p>
   </div>
+
   <div style="padding: 20px; border-top: 4px solid #0a2540; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px;">
-    <span style="font-size: 2em; margin-bottom: 10px; display: block;">🤝</span>
-    <p style="margin:0;">Actively mentor peers and promote a culture of continuous learning and technical ownership.</p>
+    <span style="font-size: 2em; margin-bottom: 10px; display: block;">🎓</span>
+    <p style="margin:0;">Upskilled junior engineers and fostered a culture of technical ownership through mentorship and the development of internal training programs.</p>
   </div>
+
 </div>
 
 ---
