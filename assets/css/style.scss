@@ -51,11 +51,12 @@
   border-radius: 12px;
   padding: 1rem;
   box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease, border-color 0.2s ease;
 }
 
 .card:hover {
   transform: translateY(-5px);
+  border-color: #155799;
 }
 
 .card h3 {
@@ -71,4 +72,72 @@
   border-radius: 10px;
   margin-top: 0.5rem;
   margin-right: 0.3rem;
+}
+
+/* Blog */
+.posts-container {
+  margin-top: 3rem;
+}
+
+.post-entry {
+  margin-bottom: 3.5rem;
+  padding-left: 20px;
+  border-left: 3px solid #eee;
+  transition: border-color 0.3s ease;
+
+  &:hover {
+    border-left-color: #0a2540;
+  }
+}
+
+.post-date {
+  display: block;
+  font-size: 0.9rem;
+  color: #606c71;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
+}
+
+.post-excerpt {
+  color: #606c71;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+}
+
+/* Read more in blog */
+.read-more {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #155799;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  color: #0a2540;
+}
+
+/* Pagination */
+.pagination {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.pagination-item {
+  background: #f3f6f8;
+  padding: 8px 16px;
+  border-radius: 6px;
+  color: #155799;
+  text-decoration: none;
+  transition: background 0.2s;
+
+  &:hover {
+    background: #e1e4e8;
+  }
 }

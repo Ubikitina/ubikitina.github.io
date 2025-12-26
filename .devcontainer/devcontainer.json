@@ -1,0 +1,18 @@
+{
+  "name": "Jekyll Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3", 
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "jekyll-vscode-extensions-pack",
+        "redhat.vscode-yaml"
+      ]
+    }
+  },
+  "forwardPorts": [4000],
+  "postCreateCommand": "bundle install",
+  "remoteUser": "vscode"
+}

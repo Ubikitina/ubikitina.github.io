@@ -1,4 +1,4 @@
-## 🎓 Certifications & Credentials
+## Certifications & Credentials
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; align-items: center; padding: 10px 0;">
 

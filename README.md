@@ -16,6 +16,17 @@ The website is live at: [https://ubikitina.github.io/](https://ubikitina.github.
 - `assets/`: CSS and other static files.
 - `index.md`: Main content for the homepage.
 
+## Local Development
+To test changes locally, you can use the **Dev Container** configuration. Once inside the container, run the following command:
+
+```bash
+bundle exec jekyll serve --host 0.0.0.0 --force_polling
+```
+
+The site will be available at `http://localhost:4000`.
+
+To close, press `Ctrl+C`.
+
 ## Contact
 Feel free to connect with me through my GitHub profile or contribute suggestions/feedback for the website.
 

@@ -3,37 +3,39 @@ layout: default
 permalink: /blog/index.html
 ---
 
-<h2>Personal Blog</h2>
+<h1 class="blog-main-title">Personal Blog</h1>
 
-<div class="posts">
+<div class="posts-container">
     {% for post in paginator.posts %}
-    <div>
-      <h3 class="post-title">
-        <a href="{{ post.url | absolute_url }}">
-          {{ post.title }} 
-        </a> | <span class="post-date">{{ post.date | date_to_string }}</span>
-      </h3>
-  
+    <article class="post-entry">
+      <header class="post-header">
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%B %-d, %Y"}}
+        </time>
+        <h2>
+          <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        </h2>
+      </header>
       
-  
-      <!-- {{ post.content }} -->
-    </div>
+      <div class="post-excerpt">
+        {{ post.excerpt | strip_html | truncatewords: 30 }}
+      </div>
+      
+      <footer class="post-footer">
+        <a href="{{ post.url | absolute_url }}" class="read-more">Read full article →</a>
+      </footer>
+    </article>
     {% endfor %}
-  </div>
+</div>
+
+<nav class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item" href="{{ paginator.next_page_path | absolute_url }}">← Previous</a>
+  {% endif %}
   
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-    {% else %}
-      <span class="pagination-item older">Older</span>
-    {% endif %}
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-        <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-      {% else %}
-        <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-      {% endif %}
-    {% else %}
-      <span class="pagination-item newer">Newer</span>
-    {% endif %}
-  </div>
+  <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+  {% if paginator.previous_page %}
+    <a class="pagination-item" href="{{ paginator.previous_page_path | absolute_url }}">Next →</a>
+  {% endif %}
+</nav>

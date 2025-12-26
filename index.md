@@ -25,17 +25,17 @@ title: Maialen - Data Engineering & Architecture
 <h2 style="text-align: center; color: #0a2540; margin-bottom: 30px; border-bottom: none;">Key Accomplishments</h2>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
   
-  <div style="padding: 20px; border-top: 4px solid #0a2540; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px; display: flex; flex-direction: column;">
+  <div style="padding: 20px; border-top: 4px solid #155799; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px; display: flex; flex-direction: column;">
     <span style="font-size: 2em; margin-bottom: 10px; display: block;">🚀</span>
     <p style="margin:0;">Led the development of scalable ingestion pipelines that reduced manual data wrangling.</p>
   </div>
 
-  <div style="padding: 20px; border-top: 4px solid #0a2540; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px; display: flex; flex-direction: column;">
+  <div style="padding: 20px; border-top: 4px solid #155799; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px; display: flex; flex-direction: column;">
     <span style="font-size: 2em; margin-bottom: 10px; display: block;">🏗️</span>
     <p style="margin:0;">Contributed to data architecture decisions for regulated systems with business-critical impact.</p>
   </div>
 
-  <div style="padding: 20px; border-top: 4px solid #0a2540; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px; display: flex; flex-direction: column;">
+  <div style="padding: 20px; border-top: 4px solid #155799; background: white; box-shadow: 0 6px 15px rgba(0,0,0,0.08); border-radius: 8px; display: flex; flex-direction: column;">
     <span style="font-size: 2em; margin-bottom: 10px; display: block;">🎓</span>
     <p style="margin:0;">Upskilled junior engineers through mentorship and the development of internal training programs.</p>
   </div>

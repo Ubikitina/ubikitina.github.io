@@ -9,7 +9,7 @@ As 2025 comes to a close, I find myself sitting down to reflect on what has been
 
 Looking back, 2025 wasn't just about closing tickets or shipping code; it was about evolving as a professional and as a member of this incredible tech community.
 
-## Milestones 🏆
+## Milestones
 
 This year was significant for "sharpening the saw". I set out to validate my experience and push my boundaries, resulting in three key certifications that represent different facets of my work:
 
@@ -19,7 +19,7 @@ This year was significant for "sharpening the saw". I set out to validate my exp
 
 Beyond the badges, these certifications were about consolidation, moving from "knowing how to use a tool" to "understanding the architecture and the WHY behind the solution".
 
-## Community ❤️
+## Community
 
 If there is one thing 2025 reinforced, it's that **software is built by people, for people**. Participating in conferences wasn't just about the talks, but about the energy of the community:
 
@@ -28,19 +28,19 @@ If there is one thing 2025 reinforced, it's that **software is built by people, 
 
 I’ve met so many passionate people this year. People who, like me, see this field as a core part of who they are. Thank you all!
 
-## The Shift 🔄
+## The Shift
 
 Perhaps the most profound change this year has been in *how* I work. Following the reflections sparked at TheAntiEvent, I’ve moved toward a more hands-on, creative process.
 
 I’ve embraced **"vibe coding"** using AI assistants not just for speed, but as partners in creativity (and *in crime* 🤜🤛). However, I’ve done so with a **critical eye**. I’ve learned to ask myself: *Are we using these tools the way we want, or are they leading us?*. This balance of intuition and technical rigor has made me more efficient and, frankly, happier in my daily tasks.
 
-## Looking Ahead 👀
+## Looking Ahead
 
 The horizon of 2026 looks both challenging and thrilling. We are witnessing a total transformation in our sector driven by AI. I’m eager to see how these tools continue to evolve and how they will further reshape our roles. 
 
 My goal for the coming year is to stay at the forefront of this evolution, advancing with the sector while maintaining that human-centric focus that makes technology truly impactful.
 
-## Gratitude 🤗
+## Gratitude
 
 Finally, I want to say **thank you**. ❤️‍🩹
 
@@ -50,4 +50,6 @@ To the colleagues who challenged me, the community members who shared their know
 
 ---
 
-***How was your 2025?** I’d love to hear about your highlights and the lessons you’ve learned along the way. If you want to share your journey or just say hi, feel free to reach out, you can find all my links at the bottom of the page.* 😊💬
+<p style="color: #606c71;">
+  <em><strong>How was your 2025?</strong> I’d love to hear about your highlights and the lessons you’ve learned along the way. If you want to share your journey or just say hi, feel free to reach out, you can find all my links at the bottom of the page.</em> 😊💬
+</p>
