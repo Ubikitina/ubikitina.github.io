@@ -77,3 +77,16 @@
     </div>
   </a>
 </div>
+
+### Project Management & Methodologies
+<div class="cert-grid">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/EXNEEDPST8WC" target="_blank" class="cert-card">
+    <div class="cert-badge">
+      <img src="/assets/images/certifications/google.png" alt="Google Project Management">
+    </div>
+    <div class="cert-info">
+      <span class="cert-provider">Google</span>
+      <span class="cert-name">Project Management Professional Certificate</span>
+    </div>
+  </a>
+</div>
