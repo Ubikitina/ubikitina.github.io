@@ -16,7 +16,7 @@ For Data Engineers, this concept is particularly vital because our work involves
 
 By using [Visual Studio Code Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers), I’ve managed to create a reproducible, portable, and fully configured environment tailored specifically for my data projects.
 
-In this post, I’ll walk you through how to set up a devcontainer, sharing an example of a configuration—complete with Python, Spark, AWS CLI, and Terraform—that helps me be more productive and avoid dependency hell.
+In this post, I’ll walk you through how to set up a devcontainer, sharing an example of a configuration (complete with Python, Spark, AWS CLI, and Terraform) that helps me be more productive and avoid dependency hell.
 
 
 ---
@@ -26,7 +26,7 @@ In this post, I’ll walk you through how to set up a devcontainer, sharing an e
 A `.devcontainer` folder can contain multiple files. In this example, I will focus on three key files that bring everything together, ensuring a consistent environment:
 
 
-### 1. `Dockerfile` – Custom Python Environment for Data Engineering
+### 1. `Dockerfile` - Custom Python Environment for Data Engineering
 
 This file defines the base image and installs everything needed for a comprehensive Data Engineering workflow.
 
@@ -36,17 +36,17 @@ This file defines the base image and installs everything needed for a comprehens
 * **System Dependencies:** `curl`, `unzip`, `build-essential`, and database connectors.
 * **Spark Integration:** I set up the `Dockerfile` to download and configure Spark, ensuring environment variables like `$JAVA_HOME$`v and `$SPARK_HOME$` are correctly defined and added to the `$PATH$`.
 * **Python Libraries:**
-    * `pyspark` – for distributed data processing.
-    * `pandas` – for efficient data wrangling.
+    * `pyspark` - for distributed data processing.
+    * `pandas` - for efficient data wrangling.
     * Others.
 * **Tools:**
-    * `awscli` – for interacting with AWS services.
-    * `terraform` – for infrastructure as code (IaC).
+    * `awscli` - for interacting with AWS services.
+    * `terraform` - for infrastructure as code (IaC).
 
 This complete setup means we have everything from running Spark jobs to deploying infrastructure ready to go in one isolated container.
 
 
-### 2. `devcontainer.json` – VS Code Extensions and Workspace Configuration
+### 2. `devcontainer.json` - VS Code Extensions and Workspace Configuration
 
 This JSON file brings the VS Code experience to life inside the container.
 
@@ -67,13 +67,13 @@ This JSON file brings the VS Code experience to life inside the container.
 
 
 
-### 3. `.bashrc` – Interactive and Smart Terminal
+### 3. `.bashrc` - Interactive and Smart Terminal
 
 A custom `.bashrc` file supercharges the terminal experience inside the container:
 
-- **Persistent command history** – Never lose track of useful, project-specific commands.
-- **Custom prompt** – Shows user, host, working directory, and current Git branch.
-- **Aliases and autocomplete** – Faster access to commonly used commands, including AWS CLI.
+- **Persistent command history** - Never lose track of useful, project-specific commands.
+- **Custom prompt** - Shows user, host, working directory, and current Git branch.
+- **Aliases and autocomplete** - Faster access to commonly used commands, including AWS CLI.
 
 The result is a terminal that’s not just functional, but a joy to use.
 
@@ -85,7 +85,7 @@ Using devcontainers in VS Code has completely changed how I approach project set
 
 * **Consistency:** Every collaborator gets the exact same environment.
 * **Isolation:** Your local machine stays clean and free of conflicting packages.
-* **Productivity:** Everything is pre-configured—no more time wasted on environment setup.
+* **Productivity:** Everything is pre-configured, no more time wasted on environment setup.
 
 If you're a data engineer looking for a scalable way to manage your dev environment, I highly recommend giving devcontainers a try.
 
