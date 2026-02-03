@@ -56,14 +56,14 @@ Patience and repetition were my best allies in mastering this domain.
 As expected, the exam is a significant step up from the Foundational level.
 
 * **Format:** It's 100% scenario-based. Forget direct theoretical questions; every item is a mini-case study.
-* **Complexity:** A subtle keyword in the prompt—like "most cost-effective," "highest performance," or "most resilient"—completely changes the correct answer.
-* **Time Management:** As a non-native English speaker, I received a time extension to 170 minutes. I used every single second, double-checking flagged questions. It was exhausting — the level of focus required for each scenario-based question is intense.
+* **Complexity:** A subtle keyword in the prompt (like "most cost-effective," "highest performance," or "most resilient") completely changes the correct answer.
+* **Time Management:** As a non-native English speaker, I received a time extension to 170 minutes. I used every single second, double-checking flagged questions. It was exhausting, the level of focus required for each scenario-based question is intense.
 
 > **Honest take:** When I clicked “Submit” at the end of the exam (taken from home via Pearson), I genuinely had no idea if I had passed. The questions were tough, full of subtle details, and it’s hard to feel confident. Thankfully, the result was positive and came with a good score.
 
 ## **Conclusion: More Than a Certification, a Technical Consolidation**
 
-The AWS Solutions Architect – Associate certification represents much more than just passing an exam — it's a step forward in consolidating ourselves as professionals in cloud architecture. It reflects the ability to understand real-world scenarios, make informed decisions, and stay aligned with best practices.
+The AWS Solutions Architect – Associate certification represents much more than just passing an exam: it's a step forward in consolidating ourselves as professionals in cloud architecture. It reflects the ability to understand real-world scenarios, make informed decisions, and stay aligned with best practices.
 
 I believe that continuous learning and the curiosity to go beyond day-to-day tasks are the right path in our dynamic industry.
 
